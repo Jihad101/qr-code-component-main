@@ -46,7 +46,7 @@
 }
 
 img {
-  width: fit-content;
+  width: 18em;
   height: 18em;
   border-radius: 10px;
   transform: translate(0, -10px);
