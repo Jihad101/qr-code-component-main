@@ -58,12 +58,13 @@ img {
   background: #fff;
   padding: 0px;
   margin: 10px 20px;
+  font-weight: 600;
 }
 
 .container span {
   text-align: center;
-  font-size: 12px;
+  font-size: 16px;
   background: #fff;
   color: hsl(220, 15%, 55%);
-  margin: 0px 0;
+  margin-bottom: 20px;
 }
